@@ -1,0 +1,48 @@
+.navbar-default {
+	background-color: #bbb;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+
+.navbar-default .navbar-brand {
+	font-size: 28px;
+	font-weight: 400;
+	color: black;
+}
+
+
+section {
+	background-color: #ddd;
+	padding: 15px;
+	margin: 15px;
+}
+
+ul li a {
+	text-align: center;
+}
+
+#bs-example-navbar-collapse-1 ul {
+	background-color: #eee;
+}
+
+ul li {
+	border-top: solid 1px #666;
+}
+
+ul.navbar-nav {
+	margin: 0px;
+}
+div#bs-example-navbar-collapse-1.navbar-collapse {
+	padding: 0px;
+	border: none;
+}
+
+.navbar-header button.navbar-toggle {
+	border: solid #666 1px;
+}
+
+.col-md-4, .col-sm-6, .col-xs-12 {
+	padding: 0px;
+	margin: 0px;
+}
